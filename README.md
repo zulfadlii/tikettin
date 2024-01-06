@@ -18,3 +18,5 @@ Dalam era globalisasi dan mobilitas yang semakin tinggi, perjalanan menjadi bagi
 3. Pilihan Transportasi Terlengkap:
    Aplikasi ini tidak hanya menyediakan tiket pesawat, tetapi juga tiket kereta dan kapal,
    memberikan pengguna pilihan yang lebih luas dalam merencanakan perjalanan mereka.
+>**Link Video**
+https://youtu.be/P3ZNHIFJtEI
